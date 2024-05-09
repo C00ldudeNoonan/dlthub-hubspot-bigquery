@@ -9,3 +9,5 @@ secrets.toml
 *.duckdb
 *.wal
 dlt/
+myenv/
+*.json
